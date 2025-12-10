@@ -186,6 +186,6 @@ server:
 
 ---
 
-**Phát triển bởi**: Hoàng Mạnh Quân & Phạm Công Vinh  
+**Phát triển bởi**: Phạm Công Vinh  
 **Ngày cập nhật**: December 9, 2024  
 **Phiên bản**: 1.0.0
