@@ -307,7 +307,8 @@ quanLyDiem.setXepLoaiStrategy(new XepLoaiQuyChe2025());
 
 - **Phạm Công Vinh** (Mã SV: 24100297)
 - **Hoàng Mạnh Quân** (Mã SV: 24107547)
-**Giảng viên**: TS. Trần Đăng Hoan  
+  
+ **Giảng viên**: TS. Trần Đăng Hoan  
 **Lớp**: CSE703029-2-1-25(N04)  
 **Trường**: Đại Học Phenikaa  
 **Môn học**: Lập Trình Hướng Đối Tượng (OOP)
